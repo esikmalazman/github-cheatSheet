@@ -1,0 +1,16 @@
+To adjust detect langauge on github
+
+.gitattributes
+
+
+
+//example text inside it
+
+*.pl linguist-detectable=true
+*.js linguist-detectable=true
+*.html linguist-detectable=false
+*.java linguist-detectable=false
+*.css linguist-detectable=false
+*.java linguist-detectable=true
+
+*.xml linguist-detectable=false
